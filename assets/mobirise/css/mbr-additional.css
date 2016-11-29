@@ -478,3 +478,18 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box8-8 .mbr-section-title,
+#msg-box8-8 p {
+  color: #fff;
+}
+#features7-7 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-7 .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
+#msg-box6-3 .mbr-section-title,
+#msg-box6-3 .lead p {
+  color: #fff;
+}
